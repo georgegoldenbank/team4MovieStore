@@ -38,3 +38,8 @@
 .ms-footer-bottom a:hover {
   color: #fff;
 }
+
+.img-card-200 {
+  width: fit-content;
+  max-height: 200px;
+}
