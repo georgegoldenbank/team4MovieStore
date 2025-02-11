@@ -1,4 +1,3 @@
-import self
 from django.contrib.auth.forms import UserCreationForm
 from django.forms.utils import ErrorList
 from django.utils.safestring import mark_safe
